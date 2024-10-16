@@ -59,24 +59,11 @@
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": false,
-    "mbrsiteDomain": "ikkxdjn94i",
+    "mbrsiteDomain": "mdsehk8yge",
     "gdpr": false,
     "witsec-white-label": true,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#353535",
-      "colorBg": "#ffffff",
-      "colorButton": "#bbbbbb",
-      "rejectColor": "#ffffff",
-      "colorLink": "#353535",
-      "underlineLink": true,
-      "opacityOverlay": "0",
-      "bgOpacity": "78",
-      "text": "Akceptuje ciasteczka. Nasza polityka ciasteczkowa <a href='privacy.html'>polityka prywatnosci</a>.",
-      "textButton": "Akceptuję",
-      "rejectText": "REJECT"
-    },
-    "publishEditFolder": false
+    "publishEditFolder": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {

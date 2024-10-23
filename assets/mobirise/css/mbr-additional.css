@@ -580,6 +580,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   font-family: 'DM Sans', sans-serif;
   font-size: 1.1rem;
@@ -1638,6 +1641,35 @@ a {
 }
 .cid-uqpT4xDh3E .copyright {
   text-align: center;
+}
+.cid-us0wG4WIlo .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-us0wG4WIlo .my-float {
+  margin-top: 16px;
+}
+.cid-us0wG4WIlo P {
+  color: #232323;
+}
+.cid-us0wG4WIlo DIV {
+  color: #ffffff;
+}
+.cid-us0wG4WIlo H10 {
+  color: #767676;
+}
+.cid-us0wG4WIlo .hidden {
+  display: none;
 }
 .cid-uoWq8vsVAM {
   z-index: 1000;

@@ -86,7 +86,7 @@
     "witsec-white-label": true,
     "publishEditFolder": false,
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {

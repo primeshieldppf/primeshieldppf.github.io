@@ -1266,7 +1266,7 @@ a {
 }
 .cid-uqpExnYXX6 .mbr-overlay {
   background-color: #000000;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 .cid-uqpExnYXX6 .content-wrap {
   padding: 5rem 1rem;
@@ -1299,6 +1299,13 @@ a {
   .cid-uqpExnYXX6 .content-wrap {
     width: 100%;
   }
+}
+.cid-uqpExnYXX6 .mbr-section-title {
+  text-align: center;
+}
+.cid-uqpExnYXX6 .mbr-text,
+.cid-uqpExnYXX6 .mbr-section-btn {
+  text-align: center;
 }
 .cid-uqpYif4V20 {
   padding-top: 7rem;
@@ -1383,7 +1390,7 @@ a {
 .cid-up7wD5Zgcr .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #fafafa;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1918,7 +1925,7 @@ a {
   right: 29px;
   background-color: #25d366;
   color: #ffffff;
-  border-radius: 60px;
+  border-radius: 72px;
   text-align: center;
   font-size: 30px;
   box-shadow: 2px 2px 3px #999;

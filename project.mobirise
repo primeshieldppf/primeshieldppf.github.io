@@ -80,7 +80,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2024-10-13-at-11.54.57-transformed-copy-128x128.png",
+    "favicon": false,
     "mbrsiteDomain": "mqskwpcefs",
     "gdpr": false,
     "witsec-white-label": true,
@@ -98,7 +98,7 @@
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/screenshot_2024-10-13_at_11.54.57-transformed-photoroom-1-596x602.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/czarno-bialy-wzor-z-nadrukiem-krowy_609138-1002-596x577.png"
       },
       "components": [
         {

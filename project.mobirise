@@ -896,10 +896,10 @@
               }
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "header4",

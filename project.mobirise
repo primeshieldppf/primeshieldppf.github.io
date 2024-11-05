@@ -22,7 +22,7 @@
         "display7Font": "DM Sans",
         "display7Size": 1.2,
         "display4Font": "DM Sans",
-        "display4Size": 1.1,
+        "display4Size": "1.15",
         "isRoundedButtons": false,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,

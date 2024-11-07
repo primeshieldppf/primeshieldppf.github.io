@@ -80,7 +80,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": "@PROJECT_PATH@/assets/images/czarno-bialy-wzor-z-nadrukiem-krowy-609138-1002-128x124_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2024-11-07-at-12.04.11-128x123.png",
     "mbrsiteDomain": "mqskwpcefs",
     "gdpr": false,
     "witsec-white-label": true,

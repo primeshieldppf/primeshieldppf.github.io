@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "primeshield.pl",
-    "currentPage": "gwarancja.html",
+    "currentPage": "prime_s.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -63,13 +63,13 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "usedWebp": true,
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "https://primeshield.pl",
     "sitemapSwitcherAuto": "on",
-    "robotsSwitcher": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow:\n\nSitemap: https://primeshield.pl/sitemap.xml",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "ins93z2jqx",
+    "mbrsiteDomain": "2vl7rvmfsr",
     "gdpr": false,
     "witsec-white-label": true,
     "publishEditFolder": false,

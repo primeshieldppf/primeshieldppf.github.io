@@ -102,7 +102,7 @@ body {
   background-color: #070606 !important;
 }
 .bg-success {
-  background-color: #23dac8 !important;
+  background-color: #767676 !important;
 }
 .bg-info {
   background-color: #47b5ed !important;
@@ -181,8 +181,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #23dac8 !important;
-  border-color: #23dac8 !important;
+  background-color: #767676 !important;
+  border-color: #767676 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -191,15 +191,15 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #178f83 !important;
-  border-color: #178f83 !important;
+  background-color: #4b4b4b !important;
+  border-color: #4b4b4b !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #178f83 !important;
-  border-color: #178f83 !important;
+  background-color: #4b4b4b !important;
+  border-color: #4b4b4b !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -355,23 +355,23 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background-color: transparent !important;
-  border-color: #23dac8;
-  color: #23dac8;
+  border-color: #767676;
+  color: #767676;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #178f83 !important;
+  color: #4b4b4b !important;
   background-color: transparent!important;
-  border-color: #178f83 !important;
+  border-color: #4b4b4b !important;
   box-shadow: none!important;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #23dac8 !important;
-  border-color: #23dac8 !important;
+  background-color: #767676 !important;
+  border-color: #767676 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #e91e8f !important;
 }
 .text-success {
-  color: #23dac8 !important;
+  color: #767676 !important;
 }
 .text-info {
   color: #47b5ed !important;
@@ -494,7 +494,7 @@ a.text-secondary.active {
 a.text-success:hover,
 a.text-success:focus,
 a.text-success.active {
-  color: #158277 !important;
+  color: #434343 !important;
 }
 a.text-info:hover,
 a.text-info:focus,
@@ -570,7 +570,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #d1f8f4;
+  color: #b6b6b6;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -1679,6 +1679,7 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }
 .cid-us0wG4WIlo .float {
   position: fixed;
@@ -2342,7 +2343,7 @@ a {
   text-align: left;
 }
 .cid-urFhth6tcI .card-title {
-  color: #e91e8f;
+  color: #ffffff;
   text-align: left;
 }
 .cid-usoNhP8nBJ {
@@ -2429,6 +2430,7 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }
 .cid-urFldHHIK6 {
   z-index: 1000;
@@ -3062,7 +3064,7 @@ a {
   color: #ffffff;
 }
 .cid-urFldGKJLw .card-title {
-  color: #e91e8f;
+  color: #ffffff;
 }
 .cid-usoNqeTRs9 {
   padding-top: 4rem;
@@ -3148,6 +3150,7 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }
 .cid-urFmCjG209 {
   z-index: 1000;
@@ -3781,7 +3784,7 @@ a {
   color: #ffffff;
 }
 .cid-urFmCj1YdO .card-title {
-  color: #e91e8f;
+  color: #ffffff;
 }
 .cid-usoNsODtkT {
   padding-top: 4rem;
@@ -3867,6 +3870,7 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }
 .cid-urFmFzbt6Y {
   z-index: 1000;
@@ -4500,7 +4504,7 @@ a {
   color: #ffffff;
 }
 .cid-urFmFyxLBG .card-title {
-  color: #e91e8f;
+  color: #ffffff;
 }
 .cid-usoNvrvSHn {
   padding-top: 4rem;
@@ -4586,6 +4590,7 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }
 .cid-urQq7fHFZz {
   z-index: 1000;
@@ -5301,4 +5306,5 @@ a {
 }
 .cid-uvJPvX2dQZ .copyright > p {
   color: #767676;
+  text-align: left;
 }

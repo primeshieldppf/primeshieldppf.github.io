@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "primeshield.pl",
-    "currentPage": "index.html",
+    "currentPage": "gwarancja.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -75,12 +75,15 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow:\n\nSitemap: https://primeshield.pl/sitemap.xml",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "9pkkdufexf",
+    "mbrsiteDomain": "bhsuwjbgdb",
     "gdpr": false,
     "witsec-white-label": true,
     "publishEditFolder": false,
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "dppsSwitcher": true,
+    "spellingSwitch": true,
+    "site_lang": "en"
   },
   "pages": {
     "index.html": {
@@ -88,7 +91,7 @@
         "main": true,
         "title": "primeshield.pl",
         "meta_descr": "PrimeShield - innowacyjne folie ochronne PPF najwyższej jakości. Oferujemy trwałe, samoregenerujące się folie ochronne do samochodów, które zabezpieczają lakier przed zarysowaniami, odpryskami i promieniowaniem UV. Sprawdź nasze produkty oraz profesjonalne wsparcie techniczne dla partnerów biznesowych. Wyróżnij się dzięki najlepszym rozwiązaniom na rynku ochrony lakieru!",
-        "header_custom": "",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
@@ -1312,11 +1315,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"form8\" group=\"Forms\" plugins=\"formstyler, datepicker\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#121212\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"hidden\" name=\"usedRecaptcha\" value=\"false\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay && bg.type=='image')\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>Wstąp do świata PrimeShield wypełniając formularz</b></h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                Form Subtitle\n            </h4>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div mbr-form class=\"col-lg-8 mx-auto mbr-form\">\n                <form action=\"primeshield.kontakt@gmail.com\" name=\"Form Name\" method=\"POST\" class=\"mbr-form form-with-styler mx-auto\" data-verified=\"primeshield.kontakt@gmail.com\">\n                    <div class=\"row\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Wypełnione :) Skontaktuję się z Tobą w najbliższym czasie.</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">Oops...! some problem!</div>\n                    </div>\n                    <div class=\"dragArea row\">\n                        <div class=\"col-lg-4 col-md-12 col-sm-12 form-group mb-3\" data-for=\"name\">\n                            <input type=\"text\" name=\"name\" placeholder=\"Numer telefonu\" data-form-field=\"name\" class=\"form-control\" value>\n                        </div>\n                        <div class=\"col-lg-4 col-md-12 col-sm-12 form-group mb-3\" data-for=\"email\">\n                            <input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"email\" class=\"form-control\" value>\n                        </div>\n                        <div class=\"col-lg-4 col-md-12 col-sm-12 mbr-section-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-black\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Wyślij</a></div>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "uvK2V1WVuM",
+          "_anchor": "form8-3o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form8-3o"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1546,7 +1549,8 @@
         "order": "1",
         "meta_descr": "PrimeShield PRIME S to budżetowa folia ochronna PPF o grubości 185 μm, zapewniająca skuteczną ochronę lakieru przed uszkodzeniami mechanicznymi, odpryskami i zarysowaniami. Wytrzymałość na poziomie minimum 6 lat sprawia, że doskonale sprawdza się w wymagających warunkach. Samoregenerująca technologia pozwala na automatyczne usuwanie drobnych rys pod wpływem ciepła, gwarantując nieskazitelny wygląd powierzchni. Wykonana z najwyższej jakości TPU z Korei oraz wyposażona w mocny klej Ashland z USA, folia PRIME S to niezawodne rozwiązanie dla każdego, kto ceni trwałość i estetykę. Odkryj niezrównaną ochronę lakieru z PrimeShield PRIME S!",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>"
       },
       "components": [
         {
@@ -2496,7 +2500,8 @@
         "title": "PRIME PRO | primeshield.pl",
         "order": "2",
         "meta_descr": "PrimeShield PRIME PRO to najwyższej klasy folia ochronna PPF o grubości 185 μm, która niezawodnie chroni lakier przed kamieniami, zarysowaniami i uszkodzeniami mechanicznymi. Dzięki żywotności na poziomie aż 10 lat, jest to jedno z najbardziej trwałych rozwiązań dostępnych na rynku. Innowacyjna technologia samoregeneracji sprawia, że drobne zarysowania znikają samoistnie pod wpływem ciepła, przywracając idealny wygląd lakieru. Wykonana z najwyższej jakości TPU z USA, folia PRIME PRO charakteryzuje się wyjątkową elastycznością i odpornością na warunki atmosferyczne. Wybierz PrimeShield PRIME PRO i ciesz się maksymalną ochroną swojego pojazdu przez lata!",
-        "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>"
       },
       "components": [
         {
@@ -3444,7 +3449,8 @@
         "title": "PRIME MAT | primeshield.pl",
         "order": "3",
         "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png",
-        "meta_descr": "PrimeShield PRIME MAT to folia ochronna PPF o grubości 185 μm, która skutecznie zabezpiecza lakier przed zarysowaniami, odpryskami i czynnikami zewnętrznymi, oferując jednocześnie elegancki matowy efekt. Dzięki gwarantowanej trwałości do 7 lat, folia zapewnia długoterminową ochronę i zachowanie estetycznego wyglądu pojazdu. Innowacyjna funkcja samoregeneracji pozwala na usuwanie drobnych zarysowań pod wpływem ciepła, utrzymując powierzchnię w nienagannym stanie. Wykonana z wysokiej jakości TPU z Japonii, PrimeShield PRIME MAT charakteryzuje się wyjątkową wytrzymałością i elastycznością. Idealny wybór dla tych, którzy chcą połączyć stylowy matowy design z niezawodną ochroną lakieru."
+        "meta_descr": "PrimeShield PRIME MAT to folia ochronna PPF o grubości 185 μm, która skutecznie zabezpiecza lakier przed zarysowaniami, odpryskami i czynnikami zewnętrznymi, oferując jednocześnie elegancki matowy efekt. Dzięki gwarantowanej trwałości do 7 lat, folia zapewnia długoterminową ochronę i zachowanie estetycznego wyglądu pojazdu. Innowacyjna funkcja samoregeneracji pozwala na usuwanie drobnych zarysowań pod wpływem ciepła, utrzymując powierzchnię w nienagannym stanie. Wykonana z wysokiej jakości TPU z Japonii, PrimeShield PRIME MAT charakteryzuje się wyjątkową wytrzymałością i elastycznością. Idealny wybór dla tych, którzy chcą połączyć stylowy matowy design z niezawodną ochroną lakieru.",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>"
       },
       "components": [
         {
@@ -4392,7 +4398,8 @@
         "title": "PRIME CHAMELEON | primeshield.pl",
         "order": "4",
         "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png",
-        "meta_descr": "PrimeShield PRIME CHAMELEON to innowacyjna folia na przednią szybę, która łączy stylowy wygląd z funkcjonalnością. Dzięki redukcji nagrzewania wnętrza pojazdu o 77%, zapewnia komfortową jazdę nawet w najbardziej upalne dni. Przepuszczalność światła na poziomie 85% gwarantuje doskonałą widoczność i bezpieczeństwo, zachowując przy tym naturalny dostęp światła dziennego. Folia blokuje aż 99% promieniowania UV, skutecznie chroniąc zdrowie kierowcy i pasażerów oraz zabezpieczając wnętrze pojazdu przed blaknięciem. PrimeShield PRIME CHAMELEON to idealne rozwiązanie dla osób, które cenią nowoczesny design, komfort i niezawodną ochronę podczas każdej podróży."
+        "meta_descr": "PrimeShield PRIME CHAMELEON to innowacyjna folia na przednią szybę, która łączy stylowy wygląd z funkcjonalnością. Dzięki redukcji nagrzewania wnętrza pojazdu o 77%, zapewnia komfortową jazdę nawet w najbardziej upalne dni. Przepuszczalność światła na poziomie 85% gwarantuje doskonałą widoczność i bezpieczeństwo, zachowując przy tym naturalny dostęp światła dziennego. Folia blokuje aż 99% promieniowania UV, skutecznie chroniąc zdrowie kierowcy i pasażerów oraz zabezpieczając wnętrze pojazdu przed blaknięciem. PrimeShield PRIME CHAMELEON to idealne rozwiązanie dla osób, które cenią nowoczesny design, komfort i niezawodną ochronę podczas każdej podróży.",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>"
       },
       "components": [
         {
@@ -5340,7 +5347,8 @@
         "title": "Gwarancja | primeshield.pl",
         "order": "5",
         "meta_image": "@PROJECT_PATH@/assets/images/asset%201_1_11zon-2-192x192.png",
-        "meta_descr": "Na stronie “Gwarancja” zarejestrujesz gwarancję. Nasza gwarancja obejmuje m.in. samoczynne pęknięcia folii oraz nierównomierne żółknięcie spowodowane wadami produkcji. Zapewniamy pełną zgodność naszych produktów z najwyższymi standardami jakości, aby Twój pojazd był chroniony przez lata."
+        "meta_descr": "Na stronie “Gwarancja” zarejestrujesz gwarancję. Nasza gwarancja obejmuje m.in. samoczynne pęknięcia folii oraz nierównomierne żółknięcie spowodowane wadami produkcji. Zapewniamy pełną zgodność naszych produktów z najwyższymi standardami jakości, aby Twój pojazd był chroniony przez lata.",
+        "header_custom": "<script>\n    window.addEventListener('load', function() {\n        if (window.location.hash) {\n            const target = document.querySelector(window.location.hash);\n            if (target) {\n                target.scrollIntoView();\n                history.replaceState(null, null, ' ');\n            }\n        }\n    });\n</script>"
       },
       "components": [
         {

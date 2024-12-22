@@ -23,7 +23,7 @@
         "display7Size": 1.2,
         "display4Font": "Roboto",
         "display4Size": "1.15",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isGhostButtonBorder": true,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,

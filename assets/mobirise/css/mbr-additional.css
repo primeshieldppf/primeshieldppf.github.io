@@ -21,43 +21,43 @@ body {
 }
 .display-1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 4.6rem;
+  font-size: 4.5rem;
   line-height: 1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.75rem;
+  font-size: 5.625rem;
 }
 .display-2 {
   font-family: 'Poppins', sans-serif;
-  font-size: 3rem;
+  font-size: 2.8rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-size: 3.5rem;
 }
 .display-4 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.25rem;
 }
 .display-5 {
   font-family: 'Poppins', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
 }
 .display-7 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -66,61 +66,61 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.68rem;
+    font-size: 3.6rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.22rem;
-    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.15rem;
+    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-5 {
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-7 {
     font-size: 0.88rem;
     font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
     line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
-  .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
-  }
-  .display-7 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
-  }
 }
 @media (min-width: 992px) and (max-width: 1400px) {
   .display-1 {
-    font-size: 3.22rem;
-    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 3.15rem;
+    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.1 * (2.225rem + (4.5 - 2.225) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (1.63rem + (2.8 - 1.63) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 62rem) / (87 - 62))));
+  }
+  .display-5 {
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 62rem) / (87 - 62))));
+  }
+  .display-7 {
     font-size: 0.88rem;
     font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 62rem) / (87 - 62)));
     line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 62rem) / (87 - 62))));
-  }
-  .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 62rem) / (87 - 62))));
-  }
-  .display-7 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62))));
   }
 }
 /* Buttons */
@@ -642,13 +642,13 @@ a:hover {
 }
 .form-control {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.3;
   font-weight: 400;
   border-radius: 40px !important;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -657,12 +657,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 blockquote {
   border-color: #9fe870;
@@ -1020,7 +1020,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.2rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2033,7 +2033,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.2rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2786,7 +2786,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.2rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3539,7 +3539,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.2rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -4292,7 +4292,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.2rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {

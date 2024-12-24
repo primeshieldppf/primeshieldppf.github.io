@@ -915,7 +915,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -957,7 +957,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -1020,7 +1020,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.2rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1284,8 +1284,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -1480,7 +1480,7 @@ a {
 .cid-uxRFf0eQNG .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #f7f7f7;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1633,7 +1633,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-uxRFHbh1Ql .item-wrapper {
-  background-color: #ffffff;
+  background-color: #f7f7f7;
   border-radius: 4px;
 }
 .cid-uxRFHbh1Ql .image-wrapper img {
@@ -1721,7 +1721,7 @@ a {
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background-primeshield-footer-1920x1080.webp");
+  background-image: url("../../../assets/images/background-for-footer-1280x720.webp");
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {
@@ -1957,7 +1957,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -1999,7 +1999,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -2062,7 +2062,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2326,8 +2326,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -2392,7 +2392,7 @@ a {
   }
 }
 .cid-uxRD1sYGZX {
-  padding-top: 10rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #090b10;
 }
@@ -2503,7 +2503,7 @@ a {
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background-primeshield-footer-1920x1080.webp");
+  background-image: url("../../../assets/images/background-for-footer-1280x720.webp");
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {
@@ -2710,7 +2710,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2752,7 +2752,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -2815,7 +2815,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3079,8 +3079,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -3145,7 +3145,7 @@ a {
   }
 }
 .cid-uxRDbOG31s {
-  padding-top: 10rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #090b10;
 }
@@ -3256,7 +3256,7 @@ a {
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background-primeshield-footer-1920x1080.webp");
+  background-image: url("../../../assets/images/background-for-footer-1280x720.webp");
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {
@@ -3463,7 +3463,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -3505,7 +3505,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -3568,7 +3568,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3832,8 +3832,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -3898,7 +3898,7 @@ a {
   }
 }
 .cid-uxREfRKZJ6 {
-  padding-top: 10rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #090b10;
 }
@@ -4009,7 +4009,7 @@ a {
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background-primeshield-footer-1920x1080.webp");
+  background-image: url("../../../assets/images/background-for-footer-1280x720.webp");
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {
@@ -4216,7 +4216,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -4258,7 +4258,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -4321,7 +4321,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uxRES6cGox .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uxRES6cGox .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -4585,8 +4585,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -4700,7 +4700,7 @@ a {
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background-primeshield-footer-1920x1080.webp");
+  background-image: url("../../../assets/images/background-for-footer-1280x720.webp");
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {

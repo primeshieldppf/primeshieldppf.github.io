@@ -1958,7 +1958,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2000,7 +2000,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -2327,8 +2327,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -2740,7 +2740,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2782,7 +2782,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -3109,8 +3109,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -3522,7 +3522,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -3564,7 +3564,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -3891,8 +3891,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {
@@ -4304,7 +4304,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -4346,7 +4346,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #000000;
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 .cid-uxRES6cGox .nav-item:focus,
 .cid-uxRES6cGox .nav-link:focus {
@@ -4673,8 +4673,8 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(0, 0, 0, 0.1) !important;
-    background: rgba(0, 0, 0, 0.1) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    background: rgba(0, 0, 0, 0) !important;
     backdrop-filter: blur(8px);
   }
   .cid-uxRES6cGox .navbar-nav .nav-item .nav-link::after {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "prime_s.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -73,7 +73,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "PrimeShield PPF",
+        "title": "PrimeShield PPF - Folie ochronne | Szkolenia | Marketing",
         "meta_descr": "Twój partner w ochronie lakieru. Oferujemy folie PPF oraz wsparcie marketingowe i techniczne dla naszych partnerów. Sprawdź, jak możemy Ci pomóc!",
         "header_custom": "",
         "footer_custom": "",

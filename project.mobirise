@@ -75,7 +75,7 @@
         "main": true,
         "title": "PrimeShield PPF - Folie ochronne | Szkolenia | Marketing",
         "meta_descr": "Twój partner w ochronie lakieru. Oferujemy folie PPF oraz wsparcie marketingowe i techniczne dla naszych partnerów. Sprawdź, jak możemy Ci pomóc!",
-        "header_custom": "",
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>PrimeShield PPF - Folie ochronne | Szkolenia | Marketing</title>\n    <meta name=\"description\" content=\"PrimeShield PPF oferuje trwałe folie ochronne PPF, profesjonalne szkolenia i wsparcie marketingowe dla partnerów biznesowych.\">\n    <meta name=\"keywords\" content=\"folie PPF, ochrona lakieru, szkolenia, marketing, PrimeShield\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/\" />\n    <!-- Inne tagi meta -->\n</head>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"

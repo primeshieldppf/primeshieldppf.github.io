@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "index.html",
+    "currentPage": "gwarancja.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1554,7 +1554,7 @@
       "settings": {
         "title": "PrimeShield PRIME S | www.primeshield.pl",
         "order": "1",
-        "meta_descr": "PrimeShield PRIME S – folia ochronna PPF (185 μm) zapewniająca trwałą ochronę lakieru przed zarysowaniami i odpryskami. Wytrzymałość min. 7 lat.",
+        "meta_descr": "PrimeShield PRIME S – folia ochronna PPF zapewniająca trwałą ochronę lakieru przed zarysowaniami i odpryskami. Wytrzymałość min. 7 lat.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
         "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield PRIME S | www.primeshield.pl</title>\n     <meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME S, folia ochronna PRIME S, PRIME S PPF, PRIME S\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/prime_s.html\" />\n    <!-- Inne tagi meta -->\n</head>"
       },
@@ -2560,7 +2560,7 @@
       "settings": {
         "title": "PrimeShield PRIME PRO | www.primeshield.pl",
         "order": "2",
-        "meta_descr": "PrimeShield PRIME PRO – folia ochronna PPF (185 μm) z żywotnością 10 lat. Chroni lakier przed zarysowaniami, odpryskami i zapewnia szybką samoregenerację.",
+        "meta_descr": "PrimeShield PRIME PRO – folia ochronna PPF z żywotnością 10 lat. Chroni lakier przed zarysowaniami, odpryskami i zapewnia szybką samoregenerację.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
         "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield PRIME PRO | www.primeshield.pl</title>\n       <meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME PRO, folia ochronna PRIME PRO, PRIME PRO PPF, PRIME PRO\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/prime_pro.html\" />\n    <!-- Inne tagi meta -->\n</head>"
       },
@@ -3566,7 +3566,7 @@
       "settings": {
         "title": "PrimeShield PRIME MAT | www.primeshield.pl",
         "order": "3",
-        "meta_descr": "PrimeShield PRIME MAT – folia ochronna PPF (185 μm) z matowym wykończeniem. Chroni lakier przed zarysowaniami i odpryskami, zapewniając trwałość 10 lat.",
+        "meta_descr": "PrimeShield PRIME MAT – folia ochronna PPF z matowym wykończeniem. Chroni lakier przed zarysowaniami i odpryskami, zapewniając trwałość 10 lat.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
         "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield PRIME MAT | www.primeshield.pl</title>\n       <meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME MAT, folia ochronna PRIME MAT, PRIME MAT PPF, PRIME MAT\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/prime_mat.html\" />\n    <!-- Inne tagi meta -->\n</head>"
       },
@@ -4572,7 +4572,7 @@
       "settings": {
         "title": "PrimeShield Gwarancja | www.primeshield.pl",
         "order": "4",
-        "meta_descr": "Zarejestruj gwarancję na folię PrimeShield. Obejmuje m.in. samoczynne pęknięcia, nierównomierne żółknięcie i wady produkcji. Gwarantujemy wysoką jakość ochrony.",
+        "meta_descr": "Zarejestruj gwarancję na folię PPF PrimeShield. Obejmuje m.in. samoczynne pęknięcia, nierównomierne żółknięcie i wady produkcji.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
         "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield Gwarancja | www.primeshield.pl</title>\n       <meta name=\"keywords\" content=\"gwarancja PrimeShield, folia ochronna gwarancja PrimeShield, PrimeShield\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/gwarancja.html\" />\n    <!-- Inne tagi meta -->\n</head>"
       },

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "gwarancja.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -74,7 +74,7 @@
       "settings": {
         "main": true,
         "title": "PrimeShield PPF - Folie ochronne | Szkolenia | Marketing",
-        "meta_descr": "Twój partner w ochronie lakieru. Oferujemy folie PPF oraz wsparcie marketingowe i techniczne dla naszych partnerów. Sprawdź, jak możemy Ci pomóc!",
+        "meta_descr": "Twój partner w ochronie lakieru. PrimeShield dostarcza folie PPF oraz wsparcie marketingowe i techniczne dla naszych partnerów. Sprawdź, jak możemy Ci pomóc!",
         "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield PPF - Folie ochronne | Szkolenia | Marketing</title>\n <meta name=\"keywords\" content=\"Primeshield, primeshield, Prime Shield, folie PPF, ochrona lakieru, bezbarwne folie ochronne PPF, szkolenia PPF, marketing PPF, PrimeShield, PrimeShield PPF\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/\" />\n    <!-- Inne tagi meta -->\n</head>",
         "footer_custom": "",
         "html_before": "",

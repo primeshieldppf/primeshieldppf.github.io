@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "index.html",
+    "currentPage": "prime_s.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png",
-    "mbrsiteDomain": "irsmteuemk",
+    "mbrsiteDomain": "qqofqksc0f",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -73,12 +73,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "PrimeShield PPF - odnieś z nami sukces!",
+        "title": "PrimeShield PPF",
         "meta_descr": "Twój partner w ochronie lakieru. Oferujemy folie PPF oraz wsparcie marketingowe i techniczne dla naszych partnerów. Sprawdź, jak możemy Ci pomóc!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%20package-864x865.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },
       "components": [
         {
@@ -1555,7 +1555,7 @@
         "title": "PrimeShield PRIME S | primeshield.pl",
         "order": "1",
         "meta_descr": "PrimeShield PRIME S – budżetowa folia ochronna PPF (185 μm) zapewniająca trwałą ochronę lakieru przed zarysowaniami i odpryskami. Dzięki samoregeneracji i wytrzymałości na poziomie minimum 7 lat sprawdzi się w trudnych warunkach.",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%20package-864x865.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },
       "components": [
         {
@@ -2560,7 +2560,7 @@
         "title": "PrimeShield PRIME PRO | primeshield.pl",
         "order": "2",
         "meta_descr": "PrimeShield PRIME PRO – najwyższej klasy folia ochronna PPF (185 μm) z żywotnością 10 lat. Chroni lakier przed zarysowaniami i uszkodzeniami, a dzięki natychmiastowej samoregeneracji utrzymuje idealny wygląd.",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%20package-864x865.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },
       "components": [
         {
@@ -3565,7 +3565,7 @@
         "title": "PrimeShield PRIME MAT | primeshield.pl",
         "order": "3",
         "meta_descr": "PrimeShield PRIME MAT – folia ochronna PPF (185 μm) o matowym wykończeniu, która skutecznie chroni lakier przed zarysowaniami i odpryskami. Dzięki trwałości 10 lat i samoregeneracji zapewnia niezawodną ochronę i estetyczny matowy wygląd.",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%20package-864x865.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },
       "components": [
         {
@@ -4570,7 +4570,7 @@
         "title": "PrimeShield Gwarancja | primeshield.pl",
         "order": "4",
         "meta_descr": "Na stronie “Gwarancja” zarejestrujesz gwarancję. Nasza gwarancja obejmuje m.in. samoczynne pęknięcia folii oraz nierównomierne żółknięcie spowodowane wadami produkcji. Zapewniamy pełną zgodność naszych produktów z najwyższymi standardami jakości, aby Twój pojazd był chroniony przez lata.",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%20package-864x865.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },
       "components": [
         {

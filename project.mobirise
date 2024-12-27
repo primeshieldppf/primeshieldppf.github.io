@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "prime_mat.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -59,14 +59,15 @@
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png",
-    "mbrsiteDomain": "uwm0buoiig",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "mbrsiteDomain": "irsmteuemk",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://primeshield.pl/",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {

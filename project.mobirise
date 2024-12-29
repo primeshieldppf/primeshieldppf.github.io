@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "prime_matte.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -4619,9 +4619,9 @@
     },
     "blog.html": {
       "settings": {
-        "title": "PrimeShield Blog | www.primeshield.pl",
+        "title": "PrimeShield Blog | PPF | www.primeshield.pl",
         "order": "5",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield Blog | www.primeshield.pl</title>\n       <meta name=\"keywords\" content=\"blog, PrimeShield blog, blog PrimeShield\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/blog.html\" />\n    <!-- Inne tagi meta -->\n</head>",
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>PrimeShield Blog | PPF | www.primeshield.pl</title>\n       <meta name=\"keywords\" content=\"blog, PrimeShield blog, blog PrimeShield\">\n    <link rel=\"canonical\" href=\"https://primeshield.pl/blog.html\" />\n    <!-- Inne tagi meta -->\n</head>",
         "meta_descr": "Odwiedź blog PrimeShield i dowiedz się paru ciekawostek ze świata bezbarwnych folii ochronnych takich jak Gel vs Johnson's Baby.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
       },

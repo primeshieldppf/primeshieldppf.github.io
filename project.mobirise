@@ -68,7 +68,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nSitemap: https://www.primeshield.pl/sitemap.xml\n",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

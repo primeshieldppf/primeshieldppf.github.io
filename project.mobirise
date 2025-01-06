@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "prime_matte.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png",
-    "mbrsiteDomain": "jagjvkb9vi",
+    "mbrsiteDomain": "vm2ootwh3s",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -1553,11 +1553,11 @@
     },
     "prime_s.html": {
       "settings": {
-        "title": "PrimeShield PRIME S | Połysk | primeshield.pl",
+        "title": "PrimeShield PRIME S | Błyszcząca ochrona lakieru",
         "order": "1",
         "meta_descr": "PrimeShield PRIME S – folia ochronna PPF połysk zapewniająca trwałą ochronę lakieru przed zarysowaniami i odpryskami. Wytrzymałość min. 7 lat.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
-        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME S | Połysk | www.primeshield.pl</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME S, folia ochronna PRIME S, PRIME S PPF, PRIME S, PRIME S połysk\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_s.html\">"
+        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME S | Błyszcząca ochrona lakieru</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME S, folia ochronna PRIME S, PRIME S PPF, PRIME S, PRIME S połysk\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_s.html\">"
       },
       "components": [
         {
@@ -2605,11 +2605,11 @@
     },
     "prime_pro.html": {
       "settings": {
-        "title": "PrimeShield PRIME PRO | Połysk | www.primeshield.pl",
+        "title": "PrimeShield PRIME PRO | Błyszcząca ochrona lakieru",
         "order": "2",
         "meta_descr": "PrimeShield PRIME PRO – folia ochronna PPF połysk z żywotnością 10 lat. Chroni lakier przed zarysowaniami, odpryskami i zapewnia szybką samoregenerację.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
-        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME PRO | Połysk | www.primeshield.pl</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME PRO, folia ochronna PRIME PRO, PRIME PRO PPF, PRIME PRO, PRIME PRO połysk\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_pro.html\">"
+        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME PRO | Błyszcząca ochrona lakieru</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME PRO, folia ochronna PRIME PRO, PRIME PRO PPF, PRIME PRO, PRIME PRO połysk\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_pro.html\">"
       },
       "components": [
         {
@@ -3658,11 +3658,11 @@
     },
     "gwarancja.html": {
       "settings": {
-        "title": "PrimeShield Gwarancja | www.primeshield.pl",
+        "title": "PrimeShield Gwarancja | Jakość i ochrona",
         "order": "4",
         "meta_descr": "Zarejestruj gwarancję na folię PPF PrimeShield. Obejmuje m.in. samoczynne pęknięcia, nierównomierne żółknięcie i wady produkcji.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
-        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield Gwarancja | www.primeshield.pl</title>\n<meta name=\"keywords\" content=\"gwarancja PrimeShield, folia ochronna gwarancja PrimeShield, PrimeShield\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/gwarancja.html\">"
+        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield Gwarancja | Jakość i ochrona</title>\n<meta name=\"keywords\" content=\"gwarancja PrimeShield, folia ochronna gwarancja PrimeShield, PrimeShield\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/gwarancja.html\">"
       },
       "components": [
         {
@@ -5572,7 +5572,7 @@
         "order": "3",
         "meta_descr": "PrimeShield PRIME MAT – folia ochronna PPF mat. Chroni lakier przed zarysowaniami i odpryskami, zapewniając trwałość 10 lat.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
-        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME MATTE | Mat | www.primeshield.pl</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME MATTE, folia ochronna PRIME MAT, PRIME MAT PPF, PRIME MAT, PrimeShield folia mat\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_matte.html\">"
+        "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<title>PrimeShield PRIME MATTE | Matowa ochrona lakieru</title>\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME MATTE, folia ochronna PRIME MAT, PRIME MAT PPF, PRIME MAT, PrimeShield folia mat\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime_matte.html\">"
       },
       "components": [
         {

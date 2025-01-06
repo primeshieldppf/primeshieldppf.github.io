@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "index.html",
+    "currentPage": "prime-matte.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -5570,7 +5570,7 @@
       "settings": {
         "title": "PrimeShield PRIME MATTE | Matowa ochrona lakieru",
         "order": "3",
-        "meta_descr": "PrimeShield PRIME MAT – folia ochronna PPF mat. Chroni lakier przed zarysowaniami i odpryskami, zapewniając trwałość 10 lat.",
+        "meta_descr": "PrimeShield PRIME MATTE – folia ochronna PPF mat. Chroni lakier przed zarysowaniami i odpryskami, zapewniając trwałość 10 lat.",
         "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png",
         "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"keywords\" content=\"folie PPF, PrimeShield PRIME MATTE, folia ochronna PRIME MAT, PRIME MAT PPF, PRIME MAT, PrimeShield folia mat\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/prime-matte.html\">"
       },

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "prime-matte.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -28,7 +28,7 @@
         "isLargeButtons": false,
         "isGhostButtonBorder": true,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png",
-    "mbrsiteDomain": "tz6t4efe0c",
+    "mbrsiteDomain": "97hze98utr",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",

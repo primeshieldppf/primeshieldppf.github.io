@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png",
-    "mbrsiteDomain": "97hze98utr",
+    "mbrsiteDomain": "nfkfuo8i4a",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -79,7 +79,7 @@
         "header_custom": "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"keywords\" content=\"Primeshield, primeshield, Prime Shield, folie PPF, ochrona lakieru, bezbarwne folie ochronne PPF, szkolenia PPF, marketing PPF, PrimeShield, PrimeShield PPF\">\n<link rel=\"canonical\" href=\"https://primeshield.pl/\">",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/primeshield%20box%202%20image%20resizer-816x816.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/asset-1-1-11zon-128x128.png"
       },
       "components": [
         {

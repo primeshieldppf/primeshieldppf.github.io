@@ -3934,7 +3934,7 @@ a {
   text-align: center;
 }
 .cid-uy47Uy7nAJ {
-  padding-top: 1rem;
+  padding-top: 3rem;
   padding-bottom: 6rem;
   background-color: #090b10;
 }
@@ -3959,6 +3959,12 @@ a {
 }
 .cid-uy47Uy7nAJ .mbr-section-title {
   color: #ffffff;
+}
+.cid-uy47Uy7nAJ form .form-control:invalid {
+  border-color: red;
+}
+.cid-uy47Uy7nAJ form .form-control:valid {
+  border-color: green;
 }
 .cid-uxRFLrfL6S {
   padding-top: 30px;

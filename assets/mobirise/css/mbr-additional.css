@@ -1398,23 +1398,9 @@ a {
   text-align: center;
   color: #ffffff;
 }
-.cid-uxRF7Q9DWS {
-  padding-top: 6rem;
-  padding-bottom: 2rem;
-  background-color: #090b10;
-}
-.cid-uxRF7Q9DWS .line {
-  background-color: #e91e8f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-uxRF7Q9DWS .mbr-text {
-  color: #ffffff;
-}
 .cid-uxRF9rK431 {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
+  padding-top: 9rem;
+  padding-bottom: 3rem;
   background-color: #090b10;
 }
 .cid-uxRF9rK431 .mbr-fallback-image.disabled {
@@ -1459,9 +1445,23 @@ a {
 .cid-uxRF9rK431 .card-box {
   color: #ffffff;
 }
+.cid-uxRF7Q9DWS {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #090b10;
+}
+.cid-uxRF7Q9DWS .line {
+  background-color: #e91e8f;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-uxRF7Q9DWS .mbr-text {
+  color: #ffffff;
+}
 .cid-uxRFf0eQNG {
-  padding-top: 1rem;
-  padding-bottom: 6rem;
+  padding-top: 6rem;
+  padding-bottom: 9rem;
   background-color: #090b10;
 }
 .cid-uxRFf0eQNG img,
@@ -1517,7 +1517,7 @@ a {
 }
 .cid-uxRFzqM6Wn {
   padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/primeshield-ploter-2000x1333.webp");
 }
 .cid-uxRFzqM6Wn .mbr-fallback-image.disabled {
@@ -1539,8 +1539,8 @@ a {
   color: #ffffff;
 }
 .cid-uGGaY1n7EX {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 8rem;
+  padding-bottom: 6rem;
   background-color: #090b10;
 }
 .cid-uGGaY1n7EX .mbr-fallback-image.disabled {
@@ -1618,8 +1618,8 @@ a {
   color: #ffffff;
 }
 .cid-uxRFDIUMVp {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/adobestock-614686332-min-min-2000x1334.webp");
 }
 .cid-uxRFDIUMVp .mbr-fallback-image.disabled {
@@ -1638,8 +1638,8 @@ a {
   color: #ffffff;
 }
 .cid-uGFaDTsuno {
-  padding-top: 9rem;
-  padding-bottom: 1rem;
+  padding-top: 10rem;
+  padding-bottom: 3rem;
   background-color: #090b10;
 }
 .cid-uGFaDTsuno .mbr-fallback-image.disabled {
@@ -1689,7 +1689,7 @@ a {
   width: 80px;
   justify-content: center;
   align-items: center;
-  background: #e91e8f;
+  background: #ffffff;
   height: 80px;
   border-radius: 50%;
 }
@@ -1713,14 +1713,16 @@ a {
 .cid-uGFaDTsuno .card-title,
 .cid-uGFaDTsuno .iconfont-wrapper {
   text-align: center;
+  color: #000000;
 }
 .cid-uGFaDTsuno .card-text,
 .cid-uGFaDTsuno .item .mbr-section-btn {
   text-align: center;
+  color: #000000;
 }
 .cid-uxRFHbh1Ql {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 7rem;
+  padding-bottom: 6rem;
   background-color: #090b10;
 }
 .cid-uxRFHbh1Ql .mbr-fallback-image.disabled {
@@ -1798,8 +1800,8 @@ a {
   text-align: center;
 }
 .cid-uxRK0UraAy {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-top: 5rem;
+  padding-bottom: 9rem;
   background-color: #090b10;
 }
 .cid-uxRK0UraAy .mbr-overlay {

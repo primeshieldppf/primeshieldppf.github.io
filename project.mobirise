@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrimeShield - PPF",
-    "currentPage": "gwarancja.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -50,7 +50,7 @@
     "spellingSwitch": true,
     "site_lang": "pl",
     "imageResize": true,
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "usedWebp": true,

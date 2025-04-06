@@ -1638,7 +1638,7 @@ a {
   color: #ffffff;
 }
 .cid-uGFaDTsuno {
-  padding-top: 10rem;
+  padding-top: 11rem;
   padding-bottom: 3rem;
   background-color: #090b10;
 }
@@ -2500,8 +2500,8 @@ a {
   }
 }
 .cid-uxREnltzJ5 {
-  padding-top: 10rem;
-  padding-bottom: 6rem;
+  padding-top: 14rem;
+  padding-bottom: 4rem;
   background-color: #090b10;
 }
 .cid-uxREnltzJ5 .mbr-overlay {
@@ -2525,25 +2525,65 @@ a {
 }
 .cid-uxREnltzJ5 .mbr-section-subtitle {
   color: #ffffff;
+  text-align: center;
 }
-.cid-uycJh2K2Kz {
-  padding-top: 2rem;
-  padding-bottom: 9rem;
-  background-color: #090b10;
+.cid-uHAiuHyJiJ {
+  padding-top: 6rem;
+  padding-bottom: 12rem;
+  background-image: url("../../../assets/images/gradient-1366x768.webp");
 }
-.cid-uycJh2K2Kz .line {
-  background-color: #e91e8f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-uHAiuHyJiJ .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-uycJh2K2Kz .mbr-text {
-  color: #ffffff;
+.cid-uHAiuHyJiJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uHAiuHyJiJ .card-wrapper {
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-uHAiuHyJiJ .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uHAiuHyJiJ .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uHAiuHyJiJ .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-uHAiuHyJiJ .wrap {
+  background: url("../../../assets/images/untitled-design-2-1366x768.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.cid-uHAiuHyJiJ .wrap .inner-wrap {
+  padding: 40px;
+}
+.cid-uHAiuHyJiJ .card-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-uHAiuHyJiJ .mbr-text,
+.cid-uHAiuHyJiJ .mbr-section-btn {
+  color: #000000;
+  text-align: center;
 }
 .cid-uxRFLrfL6S {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-uxRFLrfL6S .media-wrap {
@@ -3216,7 +3256,7 @@ a {
 .cid-uyZNKDX0ls {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/untitled-design-2-1366x768.webp");
+  background-image: url("../../../assets/images/untitled-design-3-1366x768.webp");
 }
 .cid-uyZNKDX0ls .mbr-iconfont {
   font-size: 1.2rem !important;

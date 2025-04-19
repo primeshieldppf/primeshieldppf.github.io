@@ -3257,8 +3257,8 @@ a {
 }
 .cid-uIKKLzKIaG {
   padding-top: 15rem;
-  padding-bottom: 14rem;
-  background-image: url("../../../assets/images/gradient-2-1366x768.webp");
+  padding-bottom: 0rem;
+  background-color: #090b10;
 }
 .cid-uIKKLzKIaG .mbr-text {
   color: #000000;
@@ -3352,6 +3352,35 @@ a {
 .cid-uIKKLzKIaG .mbr-iconfont {
   color: #000000;
   text-align: center;
+}
+.cid-uIMWbJWEmF {
+  padding-top: 9rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/gradient-1366x768.webp");
+}
+.cid-uIMWbJWEmF .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uIMWbJWEmF .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uIMWbJWEmF .mbr-text,
+.cid-uIMWbJWEmF .mbr-section-btn {
+  color: #232323;
+}
+.cid-uIMWbJWEmF .card-title,
+.cid-uIMWbJWEmF .card-box {
+  color: #ffffff;
+}
+.cid-uIMWbJWEmF .mbr-text,
+.cid-uIMWbJWEmF .link-wrap {
+  color: #ffffff;
 }
 .cid-uxRFLrfL6S {
   padding-top: 30px;

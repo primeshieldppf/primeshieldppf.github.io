@@ -1342,8 +1342,8 @@ a {
   background-image: url("../../../assets/images/primeshield-background-top.png-2000x1123.png");
 }
 .cid-uM6T4QQdoX .mbr-overlay {
-  background-color: #1f6463;
-  opacity: 0.8;
+  background-color: #000000;
+  opacity: 0;
 }
 .cid-uM6T4QQdoX .content-wrap {
   padding: 5rem 1rem;

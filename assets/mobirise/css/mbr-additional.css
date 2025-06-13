@@ -1581,56 +1581,6 @@ a {
 .cid-uxRF9rK431 .card-box {
   color: #ffffff;
 }
-.cid-uO1yruvrux {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #090b10;
-}
-.cid-uO1yruvrux .item-wrapper img {
-  width: 80px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 50% !important;
-}
-.cid-uO1yruvrux .item-wrapper {
-  background: #f7f7f7;
-  margin-bottom: 2rem;
-  padding: 2.25rem;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uO1yruvrux .item-wrapper {
-    padding: 1.5rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uO1yruvrux .item-wrapper {
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-.cid-uO1yruvrux .card-title,
-.cid-uO1yruvrux .iconfont-wrapper {
-  color: #000000;
-}
-.cid-uO1yruvrux .card-text {
-  color: #000000;
-  text-align: center;
-}
-.cid-uO1yruvrux .content-head {
-  max-width: 800px;
-}
-.cid-uO1yruvrux .mbr-section-title {
-  color: #e91e8f;
-}
-.cid-uO1yruvrux .card-title,
-.cid-uO1yruvrux .img-wrapper {
-  text-align: center;
-}
-.cid-uO1yruvrux .img-wrapper {
-  display: flex;
-  justify-content: center;
-}
 .cid-uGFaDTsuno {
   padding-top: 4rem;
   padding-bottom: 3rem;
@@ -1792,6 +1742,56 @@ a {
 }
 .cid-uxRFHbh1Ql .card-title {
   text-align: center;
+}
+.cid-uO1yruvrux {
+  padding-top: 7rem;
+  padding-bottom: 2rem;
+  background-color: #090b10;
+}
+.cid-uO1yruvrux .item-wrapper img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
+.cid-uO1yruvrux .item-wrapper {
+  background: #f7f7f7;
+  margin-bottom: 2rem;
+  padding: 2.25rem;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-uO1yruvrux .item-wrapper {
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uO1yruvrux .item-wrapper {
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+.cid-uO1yruvrux .card-title,
+.cid-uO1yruvrux .iconfont-wrapper {
+  color: #000000;
+}
+.cid-uO1yruvrux .card-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-uO1yruvrux .content-head {
+  max-width: 800px;
+}
+.cid-uO1yruvrux .mbr-section-title {
+  color: #e91e8f;
+}
+.cid-uO1yruvrux .card-title,
+.cid-uO1yruvrux .img-wrapper {
+  text-align: center;
+}
+.cid-uO1yruvrux .img-wrapper {
+  display: flex;
+  justify-content: center;
 }
 .cid-uMdu716j8c {
   padding-top: 9rem;

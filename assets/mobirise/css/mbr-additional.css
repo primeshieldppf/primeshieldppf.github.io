@@ -6772,3 +6772,32 @@ a {
   color: #767676;
   text-align: left;
 }
+.cid-uOvCvroLIC .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 15px;
+  right: 16px;
+  background-color: #e91e8f;
+  color: #ffffff;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-uOvCvroLIC .my-float {
+  margin-top: 16px;
+}
+.cid-uOvCvroLIC P {
+  color: #232323;
+}
+.cid-uOvCvroLIC DIV {
+  color: #ffffff;
+}
+.cid-uOvCvroLIC H10 {
+  color: #767676;
+}
+.cid-uOvCvroLIC .hidden {
+  display: none;
+}

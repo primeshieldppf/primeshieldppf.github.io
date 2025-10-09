@@ -887,7 +887,7 @@
               }
             },
             ".mbr-section-title": {
-              "text-align": "justify",
+              "text-align": "left",
               "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {

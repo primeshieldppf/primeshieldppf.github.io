@@ -1344,11 +1344,6 @@ a {
 }
 .cid-uM6T4QQdoX {
   display: flex;
-  background-image: url("../../../assets/images/upscalemedia-transformed-2.webp");
-}
-.cid-uM6T4QQdoX .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.2;
 }
 .cid-uM6T4QQdoX .content-wrap {
   padding: 5rem 1rem;
@@ -1385,7 +1380,7 @@ a {
   }
 }
 .cid-uM6T4QQdoX .mbr-section-title {
-  text-align: left;
+  text-align: justify;
   color: #ffffff;
 }
 .cid-uM6T4QQdoX .mbr-text,
@@ -1394,8 +1389,11 @@ a {
   color: #ffffff;
 }
 .cid-uM6T4QQdoX .mbr-description {
-  text-align: left;
+  text-align: justify;
   color: #ffffff;
+}
+.cid-uM6T4QQdoX .mbr-section-title DIV {
+  text-align: justify;
 }
 .cid-uO1rzkzcdM {
   padding-top: 7rem;

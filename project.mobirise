@@ -895,11 +895,11 @@
               "color": "#ffffff"
             },
             ".mbr-description": {
-              "text-align": "justify",
+              "text-align": "left",
               "color": "#ffffff"
             },
             ".mbr-section-title DIV": {
-              "text-align": "justify"
+              "text-align": "left"
             }
           },
           "_name": "header19",

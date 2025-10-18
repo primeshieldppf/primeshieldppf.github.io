@@ -149,7 +149,7 @@ body {
   background-color: #000000 !important;
 }
 .bg-success {
-  background-color: #3a341c !important;
+  background-color: #090b10 !important;
 }
 .bg-info {
   background-color: #320707 !important;
@@ -228,8 +228,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #3a341c !important;
-  border-color: #3a341c !important;
+  background-color: #090b10 !important;
+  border-color: #090b10 !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -238,15 +238,15 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: inherit;
-  background-color: #5c532d !important;
-  border-color: #5c532d !important;
+  background-color: #1b2131 !important;
+  border-color: #1b2131 !important;
   box-shadow: none;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #5c532d !important;
-  border-color: #5c532d !important;
+  background-color: #1b2131 !important;
+  border-color: #1b2131 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -402,8 +402,8 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background-color: transparent !important;
-  border-color: #3a341c;
-  color: #3a341c;
+  border-color: #090b10;
+  color: #090b10;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -417,8 +417,8 @@ body {
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #3a341c !important;
-  border-color: #3a341c !important;
+  background-color: #090b10 !important;
+  border-color: #090b10 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -511,7 +511,7 @@ body {
   color: #e91e8f !important;
 }
 .text-success {
-  color: #3a341c !important;
+  color: #090b10 !important;
 }
 .text-info {
   color: #320707 !important;
@@ -626,7 +626,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #c0b27c;
+  color: #adb7d1;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -930,7 +930,7 @@ a {
 .cid-uxRFf0eQNG .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #f7f7f7;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;

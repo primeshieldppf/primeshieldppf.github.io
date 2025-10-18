@@ -12,9 +12,6 @@
 		<loc>https://primeshield.pl/prime-s.html</loc>
 	</url>
 	<url>
-		<loc>https://primeshield.pl/prime-matte.html</loc>
-	</url>
-	<url>
 		<loc>https://primeshield.pl/szkolenia.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>https://primeshield.pl/prime-pro.html</loc>
+	</url>
+	<url>
+		<loc>https://primeshield.pl/prime-satin.html</loc>
 	</url>
 </urlset>
